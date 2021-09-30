@@ -9,7 +9,7 @@ int main()
 	a.AddElement(6);
 	a.AddElement(5);
 	float b = a.MinElement();
-	bool d = a.DeleteElement(2);
+	a.DeleteElement(3);
 	return 0;
 
 }
